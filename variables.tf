@@ -1,7 +1,7 @@
 // OCI configuration
 variable "tenancy_ocid" {}
 variable "user_ocid" {}
-variable "private_key" {}
+variable "private_key_path" {}
 variable "fingerprint" {}
 variable "compartment_ocid" {}
 variable "region" {}
